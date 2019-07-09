@@ -1,6 +1,6 @@
 # Project repository and showcase for CivTechSA!
 
-											For any questions contact art@geekdom.com 
+> ###  *For any questions contact art@geekdom.com*
 
 ## Project initiation
 
